@@ -1,7 +1,7 @@
 # 3a_storage
 Collection of ascii art in 3a format  
 ## Galery
-![DNA](https://i.imgur.com/OWN9yQW.gif) ![Nix](https://i.imgur.com/hR385U4.gif) ![Flask](https://i.imgur.com/bKfHjf6.gif) ![Scientific](https://i.imgur.com/Jj17x77.gif)  
+![DNA](https://i.imgur.com/OWN9yQW.gif) ![Flask](https://i.imgur.com/bKfHjf6.gif) ![Nix](https://i.imgur.com/hR385U4.gif) ![Scientific](https://i.imgur.com/Jj17x77.gif)  
 ![Pong](https://i.imgur.com/XjgEibY.gif) ![Pong](https://i.imgur.com/6C2W8mj.gif)  
 ## Licensing
 Files in this repository are distributed under the CC0 license, **UNLESS EXPLICITLY STATED OTHERWISE**.  
