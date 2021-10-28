@@ -12,13 +12,13 @@
 @ along with this file. If not, see <https://www.gnu.org/licenses/>.
 @
 @ This art based on https://github.com/DanCRichards/ASCII-Art-Splash-Screen/blob/master/art/5.txt
+title Wake Up
+author DomesticMoth
 width 56
 height 18
 loop true
 delay 200
 colors fg
-title Wake Up
-author DomesticMoth
 
 
              ,----------------,              ,---------,ffffffffffffffffffffffffffffffffffffffffffffffffffffffff

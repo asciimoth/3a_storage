@@ -1,12 +1,13 @@
 @ This art based on neofetch nixos ascii logo from https://github.com/dylanaraps/neofetch
+title NixOS logo
+author DomesticMoth
 width 43
 height 20
 loop true
 delay 100
 colors fg
 preview 10
-title NixOS logo
-author DomesticMoth
+utf8
 
           ▗▄▄▄       ▗▄▄▄▄    ▄▄▄▖         11111111111111111111a333333333333333333a111
           ▜███▙       ▜███▙  ▟███▛         111111111111111111111a3333333333333333a1111

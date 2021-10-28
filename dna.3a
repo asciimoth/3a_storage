@@ -1,11 +1,11 @@
 @ This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit
 @ http://creativecommons.org/licenses/by/4.0/.
+title DNA
+author DomesticMoth
 width 9
 height 14
 loop true
 colors fg
-title DNA
-author DomesticMoth
 
 g-------C51118888c
  c-----G 0611888d0

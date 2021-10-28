@@ -1,11 +1,12 @@
 @ This art based on neofetch Mageia ascii logo from https://github.com/dylanaraps/neofetch
+title Mageia logo
+author DomesticMoth
 width 24
 height 19
 loop true
 delay 100
 colors fg
-title Mageia logo
-author DomesticMoth
+preview 0
 
         .°°.            fffff99999999999999fffff
          °°   .°°.      fffff99999999999999fffff

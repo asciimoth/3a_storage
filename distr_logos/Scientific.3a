@@ -1,11 +1,12 @@
 @ This art based on neofetch scientific ascii logo from https://github.com/dylanaraps/neofetch
+title Scientific logo
+author DomesticMoth
 width 40
 height 20
 loop true
 delay 50
 colors fg
-title Scientific logo
-author DomesticMoth
+preview 0
 
                  =/;;/-                 0000000000000000011111100000000000000000
                 +:    //                0000000000000000110000110000000000000000

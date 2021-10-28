@@ -1,10 +1,11 @@
 @ This art based on neofetch nixos ascii logo from https://github.com/dylanaraps/neofetch
+title NixOS logo
+author DomesticMoth
 width 43
 height 19
 loop false
 colors fg
-title NixOS logo
-author DomesticMoth
+utf8
 
           ::::.    ':::::     ::::'        11111111199999999999bbbbbbbbbbbbbbbbbbb9111
           ':::::    ':::::.  ::::'         111111119999999999999bbbbbbbbbbbbbbbbb91111
