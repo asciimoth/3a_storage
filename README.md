@@ -3,6 +3,8 @@ Collection of ascii art in 3a format
 ## Galery
 ![DNA](https://i.imgur.com/OWN9yQW.gif) ![Flask](https://i.imgur.com/bKfHjf6.gif) ![Nix](https://i.imgur.com/hR385U4.gif) ![Scientific](https://i.imgur.com/Jj17x77.gif)  
 ![Pong](https://i.imgur.com/XjgEibY.gif) ![Pong](https://i.imgur.com/6C2W8mj.gif)  
+## Contributing
+If you decide to use the 3a format for your art, I will be grateful if you add your work or a link to it to this repository.  
 ## Licensing
 Files in this repository are distributed under the CC0 license, **UNLESS EXPLICITLY STATED OTHERWISE**.  
 Some individual files in this repository are under MIT or GPLv3 licenses, **which is explicitly stated in these files themselves**.  
