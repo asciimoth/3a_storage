@@ -1,0 +1,25 @@
+@ This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit
+@ http://creativecommons.org/licenses/by/4.0/.
+title Just a moth
+author DomesticMoth
+loop false
+width 36
+height 16
+colors fg
+
+.'''--..                    ..--'''.ffffffffffffffffffffffffffffffffffff
+' ' ' ' '-.              .-' ' ' ' 'ffffffffffffffffffffffffffffffffffff
+  | | | | ' '-. .**. .-' ' | | | |  ffffffffffffffffffffffffffffffffffff
+          | '  '    '  ' |          ffffffffffffffffffffffffffffffffffff
+              |      |              ffffffffffffffffffffffffffffffffffff
+         .'\\/  ____  \//'.         ffffffffffffffff8888ffffffffffffffff
+        /      /    \      \        fffffffffffffff888888fffffffffffffff
+       /       \_  _/       \       fffffffffffffff888888fffffffffffffff
+      /      \  ||||  /      \      ffffffffffffffff8888ffffffffffffffff
+     /  --    \      /    --  \     fffffff8888ffffffffffffff8888fffffff
+    /  /  \      /\      /  \  \    fffffff8888ffffff88ffffff8888fffffff
+   /   \  /   \  \/  /   \  /   \   fffffff8888ffffff88ffffff8888fffffff
+  / /\  --  .-'\    /'-.  --  /\ \  ffff88f8888ffffffffffffff8888f88ffff
+ /  \/   .-'   '|  |'   '-.   \/  \ ffff88ffffffffffffffffffffffff88ffff
+ "    .-'  \.../"""" \.../ '-.    " ffffffffffffffffffffffffffffffffffff
+  ''''           ""           ''''  ffffffffffffffffffffffffffffffffffff
