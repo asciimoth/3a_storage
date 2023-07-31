@@ -13,7 +13,7 @@
 @
 @ This art based on https://github.com/DanCRichards/ASCII-Art-Splash-Screen/blob/master/art/5.txt
 title Pong
-author DomesticMoth
+author ASCIIMoth
 width 56
 height 18
 loop true

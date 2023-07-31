@@ -16,8 +16,8 @@ Some individual files in this repository are under MIT or GPLv3 licenses, **whic
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/DomesticMoth">
-    <span property="dct:title">DomesticMoth</span></a>
+     href="https://github.com/ASCIIMoth">
+    <span property="dct:title">ASCIIMoth</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">3a_storage</span>.
 </p>
