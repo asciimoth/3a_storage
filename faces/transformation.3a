@@ -1,0 +1,56 @@
+@3a
+;; This work is licensed under the GPLv3.0 license.
+;; To view a copy of this license, visit https://www.gnu.org/licenses/gpl-3.0.en.html
+title transformation
+author adl
+license GPL3.0
+src https://adelfaure.net/ascii/
+delay 350
+loop yes
+#face #human #animal
+
+@body
+a      .=(|)=.       M
+d     (((|||)))      I
+l    :)))   (((:     S
+     )i _   _ i(     T
+    ((l ·   · l))    1
+     )!   L   !(     0
+    (((\  -  /)))    2
+     ))|`-.-'|((     2
+  _..-'_     _`-.._   
+ '      ` _ '      `  
+
+a   /\         /\    M
+d   : `.-'''-.' :    I
+l  / ' '  :  ` ` \   S
+   :  i _` '_ i  :   T
+   / (l ·   · l) \   1
+   / :!   L   !: \   0
+   /   \ v-v /   \   2
+   /  :|`---'|:  \   2
+  :..-'·._ _.·`-..:   
+ '        ~        `  
+
+a   /\         /\    M
+d   : `.-'''-.' :    I
+l  / ' '  :  ` ` \   S
+   :    _` '_    :   T
+   / (l ·   · l) \   1
+   / :(       ): \   0
+   /   !( Y )!   \   2
+   /  : `V=V' :  \   2
+ .'..-'·._ _.·`-..`.  
+ '        ~        `  
+
+a   /\         /\    M
+d   : `.-'''-.' :    I
+l  / ' '  :  ` ` \   S
+   :  ._ ` ' _.  :   T
+   /  `-`, .'-'  \   1
+   / :(       ): \   0
+   /   !( Y )!   \   2
+   /  : `V=V' :  \   2
+ .'.---. : : .---.`.  
+  /.`)))) : (((('.\   
+

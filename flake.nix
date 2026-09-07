@@ -21,6 +21,7 @@
       devShells.default = pkgs.mkShell {
         buildInputs = with pkgs; [
           simplehttp2server
+          python3
         ];
       };
     });
